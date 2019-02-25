@@ -7,6 +7,6 @@ YouTube channel with examples: [YouTubeChannel](https://www.youtube.com/channel/
 
 Web linked to the project to upload 3D models: [Parvis3D](http://www.parvis3d.org.es/)
 
-Docker Beta version for QMBlender use: [Docker](https://hub.docker.com/r/nuxeo/blender)
+Docker utiity for QMBlender: [Docker](https://cloud.docker.com/repository/docker/edgarfigueiras/qmblender/general)
 
 Contact us at: blendersimulation@gmail.com
