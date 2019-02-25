@@ -10,7 +10,6 @@ Blender plugin for particle-based visualization of 3D quantum wave function dyna
 - [Docker](#docker)
 - [Contact](#contact)
 
-
 ## Installation
 *Get started*
 
